@@ -1,3 +1,5 @@
+Based on Glitter, used for learning opengl.
+
 # [Glitter](http://polytonic.github.io/Glitter/)
 ![Screenshot](http://i.imgur.com/MDo2rsy.jpg)
 
